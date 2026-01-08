@@ -66,3 +66,7 @@ I enjoy understanding business processes, validating complex scenarios, and coll
 ---
 
 *"Quality is never an accident; it is always the result of intelligent effort."* – John Ruskin
+
+---
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./Muqadas_Rasheed_SQA_CV.pdf)
+
