@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Muqadas Rasheed
 
+
+*"Quality is never an accident; it is always the result of intelligent effort."* – John Ruskin
+
 SQA Engineer with 2.5 years of experience in ERP, FinTech, E-commerce, and multiple service-based domains. I have worked with both **product-based and service/project-based companies** and am currently handling projects in both domains. My focus is on delivering reliable software, improving processes, and making business workflows smooth and error-free.
 
 I work across **Sales, Purchase, HR, Inventory, Warehouses, Production Units, Recoveries, Commissions, and Finance Ledgers**, designing test scenarios, identifying issues early, and ensuring the quality of releases. Alongside **manual testing**, I use **Playwright with Python** to automate critical flows and improve testing efficiency.  
@@ -58,14 +61,9 @@ I enjoy understanding business processes, validating complex scenarios, and coll
 
 ### 📫 Contact Me
 
-### 📫 Connect with me
 - **LinkedIn:** [https://www.linkedin.com/in/muqadas-rasheed-a95393217/](https://www.linkedin.com/in/muqadas-rasheed-a95393217/)
 - **Email:** [muqadaszain190@gmail.com](mailto:muqadaszain190@gmail.com)  
 - **WhatsApp:** [+92 311 4221974](https://wa.me/923114221974) 
-
----
-
-*"Quality is never an accident; it is always the result of intelligent effort."* – John Ruskin
 
 ---
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./Muqadas_Rasheed_SQA_CV.pdf)
