@@ -66,5 +66,5 @@ I enjoy understanding business processes, validating complex scenarios, and coll
 - **WhatsApp:** [+92 311 4221974](https://wa.me/923114221974) 
 
 ---
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./Muqadas_Rasheed_SQA_CV.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./SQA Engineer _ ERP & Software Testing Specialist - Muqadas Rasheed.pdf)
 
